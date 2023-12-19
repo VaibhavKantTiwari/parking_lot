@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parking_lot/static/css/main.d5e812ed.css",
+    "main.js": "/parking_lot/static/js/main.26606d42.js",
+    "static/media/parking.jpg": "/parking_lot/static/media/parking.91236196c0daa025b244.jpg",
+    "static/media/bikepark.jpeg": "/parking_lot/static/media/bikepark.aa85ed6e0b8a1f498d73.jpeg",
+    "index.html": "/parking_lot/index.html",
+    "main.d5e812ed.css.map": "/parking_lot/static/css/main.d5e812ed.css.map",
+    "main.26606d42.js.map": "/parking_lot/static/js/main.26606d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e812ed.css",
+    "static/js/main.26606d42.js"
+  ]
+}
